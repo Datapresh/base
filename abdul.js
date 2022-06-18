@@ -1,7 +1,5 @@
 const fruits = ['Apple','Banana','Guava', 'Mango']
-
-const handlemap = (e)=>{
+fruits.map( (e)=>{
    console.log(e)
 }
-
-fruits.map(handlemap)
+)
