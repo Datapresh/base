@@ -1,5 +1,5 @@
-const fruits = ['Apple','Banana','Guava', 'Mango']
-fruits.map( (e)=>{
+const f = ['Apple','Banana','Guava', 'Mango']
+f.map( (e)=>{
    console.log(e)
 }
 )
